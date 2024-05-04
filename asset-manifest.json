@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Snorlaxkaa.github.io/my-app/static/css/main.f855e6bc.css",
-    "main.js": "/Snorlaxkaa.github.io/my-app/static/js/main.2d54e59f.js",
+    "main.js": "/Snorlaxkaa.github.io/my-app/static/js/main.e773e014.js",
     "static/js/453.ed3810f9.chunk.js": "/Snorlaxkaa.github.io/my-app/static/js/453.ed3810f9.chunk.js",
     "static/media/logo.svg": "/Snorlaxkaa.github.io/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Snorlaxkaa.github.io/my-app/index.html",
     "main.f855e6bc.css.map": "/Snorlaxkaa.github.io/my-app/static/css/main.f855e6bc.css.map",
-    "main.2d54e59f.js.map": "/Snorlaxkaa.github.io/my-app/static/js/main.2d54e59f.js.map",
+    "main.e773e014.js.map": "/Snorlaxkaa.github.io/my-app/static/js/main.e773e014.js.map",
     "453.ed3810f9.chunk.js.map": "/Snorlaxkaa.github.io/my-app/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2d54e59f.js"
+    "static/js/main.e773e014.js"
   ]
 }
